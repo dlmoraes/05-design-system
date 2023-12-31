@@ -1,0 +1,1 @@
+import{e,t as o}from"./index-13720e83.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./memoizerific-95dd62bd.js";const m={parameters:{actions:{argTypesRegex:"^on[A-Z].*"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}}},docs:{theme:e(o.dark)}};export{m as default};
